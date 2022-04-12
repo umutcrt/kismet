@@ -20,3 +20,6 @@ Find the right result using hints.
 Each consecutive win will increase your score by 1 point.
 
 Good luck.
+
+
+For questions, complaints, support requests and suggestions, you can send an e-mail to umutcorut@gmail.com.
