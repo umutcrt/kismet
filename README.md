@@ -1,5 +1,5 @@
 
-# Appy Numbers
+# Update PrivacyPolicy.md
 
 Find the 4 digit number.
 
