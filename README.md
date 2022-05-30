@@ -1,23 +1,44 @@
 
-# Update PrivacyPolicy.md
+# Update README.md
 
-Find the 4 digit number.
+*Are you ready for a brand new experience?
 
-All numbers are different.
 
-Enter your guess and confirm it by pressing the "guess" button.
+Once you find the hidden number, you will want to find it again and again every time.
 
-For each number you use in the right place 1 point appears on the green arm.
+You need to use your intelligence skills to reveal the mysterious numbers.
 
-For each number you find on a different place 1 point appears on the yellow arm.
+You can use hints to find numbers and their correct places and you can do score challenge with your friends.
 
-You have the right to try 7 times.
+You may even need to brainstorm with your friends.
 
-You can delete the prediction entries that you do not approve by clicking the "clear" button.
+It will be a pleasure for you to play this game with very entertaining graphics.
 
-Find the right result using hints.
 
-Each consecutive win will increase your score by 1 point.
+
+
+*How to play the game is quite simple;
+
+You have to guess by entering 4 numbers each time.
+
+Yellow and green colored clues will appear on each guess.
+
+The yellow number that appears; It shows the number of correct numbers that are in the wrong places but exist in the number you are trying to find.
+
+The green number is; It shows the number of correct numbers in the correct places and in the number you are trying to find.
+
+You will have a total of 7 guesses.
+
+Focus on the mysterious number and reveal the hidden number by developing new strategies.
+
+
+
+*For example; Let our mystery number be "0812".
+Suppose you also made a guess with the number "8672".
+In this case; yellow:1 and green:1 hints will appear.
+Because there are two numbers in our prediction, "8" and "2".
+Since the number "2" is used in the correct place, 1 point in green appears, and 1 point in yellow appears because the number "8" is used in the wrong place.
+Using these clues we need to reveal the hidden number in 7 tries.
 
 Good luck.
 
